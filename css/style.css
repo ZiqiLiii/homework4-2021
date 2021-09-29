@@ -134,10 +134,6 @@ tr:nth-child(odd) {
   background: transparent;
 }
 
-tr{
-  transition: 1s;
-}
-
 tr:hover{
   background: rgba(124,8,37,0.25);
 }
